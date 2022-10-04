@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6c955f5e.css",
+    "main.js": "./static/js/main.c3782454.js",
+    "static/media/img-construcao.png": "./static/media/img-construcao.104dda38734e7a05947d.png",
+    "static/media/imagem-container-home.jpg": "./static/media/imagem-container-home.c5e8b7dc5002420af2cd.jpg",
+    "static/media/bg-site-repeat.jpg": "./static/media/bg-site-repeat.e069f8ccaeeedc733812.jpg",
+    "static/media/img-acabamentos.png": "./static/media/img-acabamentos.cec5322ff604929e6d06.png",
+    "static/media/servicos-acabamento-1.jpg": "./static/media/servicos-acabamento-1.21218e176a9b1a4d07ff.jpg",
+    "static/media/servicos-construcao-9.jpg": "./static/media/servicos-construcao-9.045bb0d2bbb024f3b4dc.jpg",
+    "static/media/bg-home-mobile.jpg": "./static/media/bg-home-mobile.7b47a342a1e15f4a9180.jpg",
+    "static/media/bg-header.png": "./static/media/bg-header.686b9dfe5cbf0355af76.png",
+    "static/media/servicos-construcao-5.jpg": "./static/media/servicos-construcao-5.9ee90d803fda6d28b786.jpg",
+    "static/media/servicos-construcao-2.jpg": "./static/media/servicos-construcao-2.3917ea5fe863806d558b.jpg",
+    "static/media/servicos-construcao-4.jpg": "./static/media/servicos-construcao-4.1bef49fcfee0766c0a69.jpg",
+    "static/media/servicos-construcao-7.jpg": "./static/media/servicos-construcao-7.19b14972d15f23305716.jpg",
+    "static/media/servicos-construcao-6.jpg": "./static/media/servicos-construcao-6.2a00e9dbc0eee4fb4ebd.jpg",
+    "static/media/servicos-construcao-3.jpg": "./static/media/servicos-construcao-3.35712c47ad01b2581bb4.jpg",
+    "static/media/servicos-construcao-8.jpg": "./static/media/servicos-construcao-8.781366eee8431cb9ed0e.jpg",
+    "static/media/servicos-construcao-1.jpg": "./static/media/servicos-construcao-1.1d3b6868af0e6cb1ec59.jpg",
+    "static/media/servicos-reforma-2.jpg": "./static/media/servicos-reforma-2.12e9325835c3a5e65d58.jpg",
+    "static/media/servicos-construcao-10.jpg": "./static/media/servicos-construcao-10.f705bf7723609ff34c04.jpg",
+    "static/media/servicos-eletrica-1.jpg": "./static/media/servicos-eletrica-1.8fe91e9126f4bc3ef227.jpg",
+    "static/media/servicos-eletrica-2.jpg": "./static/media/servicos-eletrica-2.84f323ce55be73b33d69.jpg",
+    "static/media/img-hidraulica.png": "./static/media/img-hidraulica.6f671106dbd2ea1aa358.png",
+    "static/media/servicos-reforma-1.jpg": "./static/media/servicos-reforma-1.a072a2af171e80af567c.jpg",
+    "static/media/servicos-pintura-1.jpg": "./static/media/servicos-pintura-1.cabd33691a504d62a13a.jpg",
+    "static/media/servicos-eletrica-3.jpg": "./static/media/servicos-eletrica-3.afbac0034d9871c50959.jpg",
+    "static/media/servicos-acabamento-2.jpg": "./static/media/servicos-acabamento-2.3966695d65cd2f62c5ac.jpg",
+    "static/media/servicos-pintura-3.jpg": "./static/media/servicos-pintura-3.3966695d65cd2f62c5ac.jpg",
+    "static/media/logo-grande-fundo-transparente.png": "./static/media/logo-grande-fundo-transparente.0d5e958bd6807ad4af63.png",
+    "static/media/img-eletrica.png": "./static/media/img-eletrica.2ac9b321c02114019fbd.png",
+    "static/media/servicos-pintura-2.jpg": "./static/media/servicos-pintura-2.655975058900142a2758.jpg",
+    "static/media/servicos-hidraulica-5.jpg": "./static/media/servicos-hidraulica-5.93d75f719b7cb1d855cb.jpg",
+    "index.html": "./index.html",
+    "main.6c955f5e.css.map": "./static/css/main.6c955f5e.css.map",
+    "main.c3782454.js.map": "./static/js/main.c3782454.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c955f5e.css",
+    "static/js/main.c3782454.js"
+  ]
+}
